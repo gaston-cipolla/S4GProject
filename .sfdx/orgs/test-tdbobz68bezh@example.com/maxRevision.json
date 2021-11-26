@@ -1,0 +1,617 @@
+{
+  "serverMaxRevisionCounter": 380,
+  "sourceMembers": {
+    "ListView__Planet__c.All": {
+      "serverRevisionCounter": 90,
+      "lastRetrievedFromServer": 90,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "ListView__Case.All": {
+      "serverRevisionCounter": 115,
+      "lastRetrievedFromServer": 115,
+      "memberType": "ListView",
+      "isNameObsolete": false
+    },
+    "CustomField__Access_Code__mdt.External_id__c": {
+      "serverRevisionCounter": 9,
+      "lastRetrievedFromServer": 9,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Access_Code__mdt.Access_Code__c": {
+      "serverRevisionCounter": 17,
+      "lastRetrievedFromServer": 17,
+      "memberType": "CustomField",
+      "isNameObsolete": true
+    },
+    "CustomField__Access_Code__mdt.AccessCode__c": {
+      "serverRevisionCounter": 14,
+      "lastRetrievedFromServer": 14,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Planet__c.Code__c": {
+      "serverRevisionCounter": 91,
+      "lastRetrievedFromServer": 91,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Case.Planet__c": {
+      "serverRevisionCounter": 97,
+      "lastRetrievedFromServer": 97,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Case.SuccessfulScan__c": {
+      "serverRevisionCounter": 104,
+      "lastRetrievedFromServer": 104,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 370,
+      "lastRetrievedFromServer": 370,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__CustomMetadata__mdt-CustomMetadata Layout": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "Layout",
+      "isNameObsolete": true
+    },
+    "Layout__Access_Code__mdt-Access Code Layout": {
+      "serverRevisionCounter": 18,
+      "lastRetrievedFromServer": 18,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Planet__c-Planet Layout": {
+      "serverRevisionCounter": 92,
+      "lastRetrievedFromServer": 92,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Case-Case (Marketing) Layout": {
+      "serverRevisionCounter": 105,
+      "lastRetrievedFromServer": 105,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Case-Case (Sales) Layout": {
+      "serverRevisionCounter": 106,
+      "lastRetrievedFromServer": 106,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Case-Case (Support) Layout": {
+      "serverRevisionCounter": 107,
+      "lastRetrievedFromServer": 107,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__Case-Case Layout": {
+      "serverRevisionCounter": 108,
+      "lastRetrievedFromServer": 108,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "Layout__CaseClose-Close Case Layout": {
+      "serverRevisionCounter": 109,
+      "lastRetrievedFromServer": 109,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    },
+    "CustomObject__CustomMetadata__mdt": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "CustomObject",
+      "isNameObsolete": true
+    },
+    "CustomObject__Access_Code__mdt": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__Planet__c": {
+      "serverRevisionCounter": 87,
+      "lastRetrievedFromServer": 87,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObject__PlanetNews__e": {
+      "serverRevisionCounter": 127,
+      "lastRetrievedFromServer": 127,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "ApexClass__CaseTriggerHandler": {
+      "serverRevisionCounter": 157,
+      "lastRetrievedFromServer": 157,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__caseTrigger": {
+      "serverRevisionCounter": 130,
+      "lastRetrievedFromServer": 130,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": false
+    },
+    "ApexTrigger__caseTriger": {
+      "serverRevisionCounter": 119,
+      "lastRetrievedFromServer": 119,
+      "memberType": "ApexTrigger",
+      "isNameObsolete": true
+    },
+    "CustomTab__Planet__c": {
+      "serverRevisionCounter": 88,
+      "lastRetrievedFromServer": 88,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomTab__CaseList": {
+      "serverRevisionCounter": 142,
+      "lastRetrievedFromServer": 142,
+      "memberType": "CustomTab",
+      "isNameObsolete": true
+    },
+    "CustomTab__CasosInterplanetarios": {
+      "serverRevisionCounter": 143,
+      "lastRetrievedFromServer": 143,
+      "memberType": "CustomTab",
+      "isNameObsolete": false
+    },
+    "CustomIndex__Planet__c.Code__c": {
+      "serverRevisionCounter": 94,
+      "lastRetrievedFromServer": 94,
+      "memberType": "CustomIndex",
+      "isNameObsolete": false
+    },
+    "EmailServicesFunction__EmailToCase": {
+      "serverRevisionCounter": 81,
+      "lastRetrievedFromServer": 81,
+      "memberType": "EmailServicesFunction",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__caseList": {
+      "serverRevisionCounter": 377,
+      "lastRetrievedFromServer": 377,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__caseList/caseList.html": {
+      "serverRevisionCounter": 380,
+      "lastRetrievedFromServer": 380,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__caseList/caseList.js": {
+      "serverRevisionCounter": 378,
+      "lastRetrievedFromServer": 378,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__caseList/caseList.js-meta.xml": {
+      "serverRevisionCounter": 379,
+      "lastRetrievedFromServer": 379,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "Settings__Case": {
+      "serverRevisionCounter": 82,
+      "lastRetrievedFromServer": 82,
+      "memberType": "Settings",
+      "isNameObsolete": false
+    },
+    "CustomObject__Case": {
+      "serverRevisionCounter": 96,
+      "lastRetrievedFromServer": 96,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M0": {
+      "serverRevisionCounter": 19,
+      "lastRetrievedFromServer": 19,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": true
+    },
+    "CustomMetadata__Access_Code.M1": {
+      "serverRevisionCounter": 20,
+      "lastRetrievedFromServer": 20,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M10": {
+      "serverRevisionCounter": 21,
+      "lastRetrievedFromServer": 21,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M11": {
+      "serverRevisionCounter": 22,
+      "lastRetrievedFromServer": 22,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M12": {
+      "serverRevisionCounter": 23,
+      "lastRetrievedFromServer": 23,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M13": {
+      "serverRevisionCounter": 24,
+      "lastRetrievedFromServer": 24,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M14": {
+      "serverRevisionCounter": 25,
+      "lastRetrievedFromServer": 25,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M15": {
+      "serverRevisionCounter": 26,
+      "lastRetrievedFromServer": 26,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M16": {
+      "serverRevisionCounter": 27,
+      "lastRetrievedFromServer": 27,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M17": {
+      "serverRevisionCounter": 28,
+      "lastRetrievedFromServer": 28,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M18": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M19": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M2": {
+      "serverRevisionCounter": 31,
+      "lastRetrievedFromServer": 31,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M20": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M21": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M22": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M23": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M24": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M25": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M26": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M27": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M28": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M29": {
+      "serverRevisionCounter": 41,
+      "lastRetrievedFromServer": 41,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M3": {
+      "serverRevisionCounter": 42,
+      "lastRetrievedFromServer": 42,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M30": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M31": {
+      "serverRevisionCounter": 44,
+      "lastRetrievedFromServer": 44,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M32": {
+      "serverRevisionCounter": 45,
+      "lastRetrievedFromServer": 45,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M33": {
+      "serverRevisionCounter": 46,
+      "lastRetrievedFromServer": 46,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M34": {
+      "serverRevisionCounter": 47,
+      "lastRetrievedFromServer": 47,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M35": {
+      "serverRevisionCounter": 48,
+      "lastRetrievedFromServer": 48,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M36": {
+      "serverRevisionCounter": 49,
+      "lastRetrievedFromServer": 49,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M37": {
+      "serverRevisionCounter": 50,
+      "lastRetrievedFromServer": 50,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M38": {
+      "serverRevisionCounter": 51,
+      "lastRetrievedFromServer": 51,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M39": {
+      "serverRevisionCounter": 52,
+      "lastRetrievedFromServer": 52,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M4": {
+      "serverRevisionCounter": 53,
+      "lastRetrievedFromServer": 53,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M40": {
+      "serverRevisionCounter": 54,
+      "lastRetrievedFromServer": 54,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M41": {
+      "serverRevisionCounter": 55,
+      "lastRetrievedFromServer": 55,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M42": {
+      "serverRevisionCounter": 56,
+      "lastRetrievedFromServer": 56,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M43": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": 57,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M44": {
+      "serverRevisionCounter": 58,
+      "lastRetrievedFromServer": 58,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M45": {
+      "serverRevisionCounter": 59,
+      "lastRetrievedFromServer": 59,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M46": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M47": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M48": {
+      "serverRevisionCounter": 62,
+      "lastRetrievedFromServer": 62,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M49": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M5": {
+      "serverRevisionCounter": 64,
+      "lastRetrievedFromServer": 64,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M50": {
+      "serverRevisionCounter": 65,
+      "lastRetrievedFromServer": 65,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M51": {
+      "serverRevisionCounter": 66,
+      "lastRetrievedFromServer": 66,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M52": {
+      "serverRevisionCounter": 67,
+      "lastRetrievedFromServer": 67,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M53": {
+      "serverRevisionCounter": 68,
+      "lastRetrievedFromServer": 68,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M54": {
+      "serverRevisionCounter": 69,
+      "lastRetrievedFromServer": 69,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M55": {
+      "serverRevisionCounter": 70,
+      "lastRetrievedFromServer": 70,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M56": {
+      "serverRevisionCounter": 71,
+      "lastRetrievedFromServer": 71,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M57": {
+      "serverRevisionCounter": 72,
+      "lastRetrievedFromServer": 72,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M58": {
+      "serverRevisionCounter": 73,
+      "lastRetrievedFromServer": 73,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M59": {
+      "serverRevisionCounter": 74,
+      "lastRetrievedFromServer": 74,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M6": {
+      "serverRevisionCounter": 75,
+      "lastRetrievedFromServer": 75,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M60": {
+      "serverRevisionCounter": 76,
+      "lastRetrievedFromServer": 76,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M7": {
+      "serverRevisionCounter": 77,
+      "lastRetrievedFromServer": 77,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M8": {
+      "serverRevisionCounter": 78,
+      "lastRetrievedFromServer": 78,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "CustomMetadata__Access_Code.M9": {
+      "serverRevisionCounter": 79,
+      "lastRetrievedFromServer": 79,
+      "memberType": "CustomMetadata",
+      "isNameObsolete": false
+    },
+    "ApexClass__CaseController": {
+      "serverRevisionCounter": 200,
+      "lastRetrievedFromServer": 200,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "FieldSet__Case.Case_Field_Set": {
+      "serverRevisionCounter": 239,
+      "lastRetrievedFromServer": null,
+      "memberType": "FieldSet",
+      "isNameObsolete": false
+    },
+    "ApexPage__InfoViewer": {
+      "serverRevisionCounter": 376,
+      "lastRetrievedFromServer": 376,
+      "memberType": "ApexPage",
+      "isNameObsolete": false
+    },
+    "ApexClass__InfoViewerControllerPage": {
+      "serverRevisionCounter": 283,
+      "lastRetrievedFromServer": 283,
+      "memberType": "ApexClass",
+      "isNameObsolete": true
+    },
+    "ApexClass__IntegrationService": {
+      "serverRevisionCounter": 371,
+      "lastRetrievedFromServer": 371,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "RemoteSiteSetting__EscaneoInterplanetario": {
+      "serverRevisionCounter": 335,
+      "lastRetrievedFromServer": null,
+      "memberType": "RemoteSiteSetting",
+      "isNameObsolete": false
+    }
+  }
+}

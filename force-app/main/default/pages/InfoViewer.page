@@ -1,0 +1,27 @@
+<apex:page standardController="Case" >
+<apex:form>
+    <apex:pageBlock>
+        <apex:pageBlockSection>
+            <apex:repeat value="{!$ObjectType.Case.FieldSets.Case_Field_Set}" 
+                         var="field">
+                         <apex:inputField value="{!Case[field]}"/>
+            </apex:repeat>
+        </apex:pageBlockSection>
+
+        <apex:pageBlockTable value="{!$ObjectType.Case.FieldSets.Case_Field_Set}" var="f">
+            <apex:column value="{!f}">
+                <apex:facet name="header">Name</apex:facet>
+            </apex:column>
+            <apex:column value="{!f.Label}">
+                <apex:facet name="header">Label</apex:facet>
+            </apex:column>
+            <apex:column value="{!f.Type}">
+                <apex:facet name="header">Data type</apex:facet>
+            </apex:column>
+
+        </apex:pageBlockTable>
+    </apex:pageBlock>
+
+</apex:form>
+
+</apex:page>

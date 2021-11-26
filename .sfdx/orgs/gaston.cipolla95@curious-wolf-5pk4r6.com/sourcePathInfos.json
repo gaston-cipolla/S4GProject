@@ -1,0 +1,57 @@
+{
+  "C:\\Users\\tripe\\Desktop\\S4G\\force-app": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1637770880101,
+    "changeTime": 1637770880101,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1637770880101,
+    "changeTime": 1637770880101,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1637855575719,
+    "changeTime": 1637855575719,
+    "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1637770880102,
+    "changeTime": 1637770880102,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1637778293423,
+    "changeTime": 1637778293423,
+    "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\tripe\\Desktop\\S4G": {
+    "sourcePath": "C:\\Users\\tripe\\Desktop\\S4G",
+    "isDirectory": true,
+    "modifiedTime": 1637778229424,
+    "changeTime": 1637778229424,
+    "contentHash": "7674640e8e70b1725c81384ea9465e5a0e2dd494",
+    "state": "n",
+    "isWorkspace": true
+  }
+}
