@@ -23,6 +23,7 @@ public with sharing class IntegrationService {
         HttpResponse response = http.send(request);
         if(response.getStatusCode() == 200){
             myCase.Status = 'Closed';
+            myCase.SuccessfulScan__c = True;
             update myCase;
             return 'Baby Yoda encontrado!';
         }

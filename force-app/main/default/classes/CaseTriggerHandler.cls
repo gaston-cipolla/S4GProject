@@ -1,15 +1,23 @@
 public class CaseTriggerHandler {
 	public static void handleBeforeInsert(List<Case> cases) {
 
+        List<Case> listWithInfo = new List<Case>();
         List<Case> listCaseEmails = new List<Case>();
         
         for (Case c: cases) {
-            if(c.Subject.contains('Solicitud de escaneo') && c.Description.contains('Código de acceso al sistema de escaneo interplanetario')){
-                listCaseEmails.add(c);        
+            if(c.Subject != null && c.Description != null){
+                listWithInfo.add(c);        
+            }
+        }
+        for (Case d: listWithInfo) {
+            if(d.Subject.contains('Solicitud de escaneo') && d.Description.contains('Código de acceso al sistema de escaneo interplanetario')){
+                listCaseEmails.add(d);        
             }            
         }
 
         emailHandler(listCaseEmails);
+        
+        
        
     }
 
