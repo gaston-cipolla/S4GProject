@@ -35,8 +35,6 @@ public class CaseTriggerHandler {
             planetMap.put(p.Code__c, p.Id);
         }
         
-        Set<String> keySet = planetMap.keySet();
-        
         for (Case c: cases) {
             String code = getCodeFromDescription(c);
             Id planetId = planetMap.get(code);
